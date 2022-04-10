@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+logs/*
+settings_mine.json
+*.pyc
+.DS_Store
