@@ -1,4 +1,4 @@
-# Cloudflare
+### Description
 
 Project to Interact with Cloudflare API for my Domain DNS
 
@@ -10,3 +10,19 @@ Current Functionality:
     - Request User for DNS Record Type
     - Request User for which records to delete
     - Then deletes the records
+
+### Usage
+
+**To Use:**
+
+git clone https://github.com/Barrow1990/Cloudflare.git
+or
+download zip
+
+**Execute script:**
+
+cd Cloudflare
+
+python ./main.py
+
+Following Promps on CMD
